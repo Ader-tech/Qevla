@@ -1,0 +1,145 @@
+body{
+    font-family: poppins; 
+    font-style: normal;
+    font-weight: 400;
+    overflow-x: hidden;
+}
+.company-logo{
+    padding-left: 100px;
+    padding-right: 250px;
+}
+.help-line{
+    display: flex;
+}
+.help-logo{
+    height: 42%;
+    padding-top: 10px;
+}
+.nav-item{
+    font-family: poppins-medium;
+    font-size: 1.2rem;
+}
+
+#support-line{
+    background:linear-gradient(90deg, rgba(8, 38, 186, 0.74) 42.88%, rgba(8, 38, 186, 0) 100%), url("../images/Qevla2\ .png");
+    padding: 20rem 5rem;
+    color: #FFF;
+    font-weight: 700;
+    background-size: cover;
+}
+.download{
+    margin: 3rem 1.5rem 3rem 0;
+    
+}
+
+.overlay{
+    background-color: white;
+    padding: 40px 0 0 40px ;
+    margin: -100px 50px 0 50px;
+    box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.25);
+    border-radius: 20px;
+    line-height: 1.5;
+    font-family: poppins-medium;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+span {
+    color: #0826B7;
+    font-family: poppins-SemiBold;
+    font-weight: 600
+}
+.about-section{
+    padding: 60px 0 0 30px;
+    line-height: 1.5;
+    margin: 40px;
+    font-size: 0.98rem;
+}
+
+.about-heading{
+    padding: 1rem 0;
+    font-family: poppins-semi-bold;
+    font-weight: 600;
+}  
+.video{
+ background: url("/images/woman.png") no-repeat scroll  white; 
+ border-radius: 20px;
+ /* background-color: #FFF; */
+background-origin: content-box;
+box-shadow: -1px -6px 2px white;
+}
+#how-it-works{
+    background-color: #FAFBFF;
+}
+.how-header{
+    text-align: center;
+    padding: 50px 20px 0 0;
+    line-height: 1.5;
+}
+.how-body{
+    margin: 0 0 0 200px;
+}
+.card-under{
+    text-align: center;
+    font-weight: 500;
+}
+.card-image{
+    padding: 1rem 0;
+}
+.card-column{
+    box-shadow: 0px 0px 100px rgba(0, 76, 116, 0.05);
+    border-radius: 20px;
+    border: none;
+}
+.app{
+    background: url(/images/Pexels\ Photo\ by\ Tirachard\ Kumtanom.png) center no-repeat;
+    background-size: auto;
+} 
+.app-view{
+    padding: 5rem 2rem 5rem 10rem;
+}
+.phone{
+    display: flex;
+    padding-bottom: 15px;
+}
+.btn-sm{
+    margin: 2% 2% 0 2%;
+    border-radius: 10px;
+}
+#testimonial{
+    background-color: #FAFBFF;
+}
+.head-test{
+    text-align: center;
+    padding-bottom: 3%;
+}
+.test-section{
+    margin: 0 0 0 200px;
+}
+hr{
+    padding: 10px 0;
+    border-style: none;
+    border-top: dotted;
+    height:1px;
+    width:7%;
+    border-color: rgb(37, 37, 95);
+    border-width: 12px;
+    
+}
+.number{
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+#footer{
+    background-color: black;
+    color: white;
+    padding: 15px 0 15px 0;
+}
+.f-icon{
+    margin: 0 10px 0 0;
+    width: 20px;
+}
+
+/* 
+.container-fluid{
+    padding: 1% 5%;
+} */
